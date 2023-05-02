@@ -79,6 +79,32 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "CiD Software SpA",
+            "application_id": "ADT",
+            "version": "3.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-02",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "CiD Software SpA",
+            "application_id": "PS",
+            "version": "3.0",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-02",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DEDALUS SPA",
             "application_id": "CONCERTO",
             "version": "22.1.0",
@@ -154,6 +180,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-20",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DEDALUS SPA",
+            "application_id": "APEIRON",
+            "version": "3.0.0",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-02",
             "gtw_version": "1.0"
         },
         {
@@ -257,7 +296,7 @@
             "service": [
                 "VALIDATION"
             ],
-            "date": "2023-04-28",
+            "date": "2023-04-27",
             "gtw_version": "1.0"
         },
         {
@@ -270,7 +309,7 @@
             "service": [
                 "VALIDATION"
             ],
-            "date": "2023-04-28",
+            "date": "2023-04-27",
             "gtw_version": "1.0"
         },
         {
@@ -297,6 +336,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-19",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GESAN SRL",
+            "application_id": "WLEXT-LIS",
+            "version": "V.2.0",
+            "doc_type": [
+                "LIS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-02",
             "gtw_version": "1.0"
         },
         {
@@ -414,6 +466,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-20",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Log 80 s.r.l.",
+            "application_id": "SUITE LOG80",
+            "version": "1.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-02",
             "gtw_version": "1.0"
         },
         {
