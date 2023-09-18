@@ -1,2312 +1,2352 @@
 {
-    "results": [
-        {
-            "vendor": "ACSINFORMATICA",
-            "application_id": "WINGLA",
-            "version": "1",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-16",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "AGFA GEVAERT SPA",
-            "application_id": "ELEFANTE.NET",
-            "version": "2",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-03-21",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "agilesrl",
-            "application_id": "cliniclick",
-            "version": "1.15.9",
-            "doc_type": [
-                "LDO", "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-15",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "agilesrl",
-            "application_id": "cliniclick",
-            "version": "1.15.9",
-            "doc_type": [
-                "LDO", "VPS", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-08-30",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "AO Ordine Mauriziano",
-            "application_id": "BABELE_WPF",
-            "version": "1.0",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-23",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "AO Ordine Mauriziano",
-            "application_id": "BABELE_WPF",
-            "version": "1.0",
-            "doc_type": [
-                "RAD", "LDO", "VPS", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "AOUCAREGGI",
-            "application_id": "ARCHIMED",
-            "version": "8.48",
-            "doc_type": [
-                "LDO", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-21",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "APSS",
-            "application_id": "SIO",
-            "version": "2.12.0",
-            "doc_type": [
-                "LDO", "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-30",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Arbitek",
-            "application_id": "XM-Lab",
-            "version": "2.0",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-21",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "ARIA SPA",
-            "application_id": "CDA2VACC",
-            "version": "1.0",
-            "doc_type": [
-                "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-19",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "ASCOM UMS",
-            "application_id": "DIGISTAT",
-            "version": "8",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "asl2savonese",
-            "application_id": "onesys",
-            "version": "2.6.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-06",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "asl2savonese",
-            "application_id": "onesys-ps",
-            "version": "2.6.0",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-13",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "ASL3 Genovese",
-            "application_id": "SIVIS",
-            "version": "v.1.0.0",
-            "doc_type": [
-                "LDO", "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-19",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "ASL4",
-            "application_id": "OASIS4",
-            "version": "V.9.9.0",
-            "doc_type": [
-                "LDO", "VPS", "SING_VACC" , "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-05",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "ASL5",
-            "application_id": "GestioneVaccinazioni",
-            "version": "1.0",
-            "doc_type": [
-                "SING_VACC" , "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-30",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "ASL5",
-            "application_id": "PHTRACK",
-            "version": "1.0",
-            "doc_type": [
-                "SING_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-30",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "ASL Caserta",
-            "application_id": "ASLCE_ADTPS",
-            "version": "1.0",
-            "doc_type": [
-                "LDO", "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-08",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "BCS",
-            "application_id": "WINDEG",
-            "version": "7.11.0.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-06",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "BCS",
-            "application_id": "WINLAB",
-            "version": "6.0.41.1",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-13",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "BCS",
-            "application_id": "PriamoRIS",
-            "version": "4.14.0.0",
-            "equiv_releases": [
-                "4.15.0.0"
-            ],
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-16",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "BCS",
-            "application_id": "WINPS",
-            "version": "8.0.49.5",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "BCS",
-            "application_id": "PriamoAMB",
-            "version": "4.16.0.0",
-            "doc_type": [
-                "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-08-30",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "BiMind",
-            "application_id": "Human",
-            "version": "10.6",
-            "doc_type": [
-                "LDO", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "BOLLINOITSPA",
-            "application_id": "BOLLINOFSE",
-            "version": "1.0",
-            "doc_type": [
-                "LAB", "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-03",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "BOLLINOITSPA",
-            "application_id": "BOLLINOFSE",
-            "version": "1.0",
-            "doc_type": [
-                "LAB", "RAD", "LDO", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-08-30",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "CB Sistemi",
-            "application_id": "StudioLAB",
-            "version": "3.3.0.0",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-17",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "CiD Software SpA",
-            "application_id": "ADT",
-            "version": "3.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-02",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "CiD Software SpA",
-            "application_id": "PS",
-            "version": "3.0",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-02",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "CONSORZIO METIS",
-            "application_id": "SISPC",
-            "version": "V.23",
-            "doc_type": [
-                "SING_VACC", "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-05",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Cooperativa EDP La Traccia",
-            "application_id": "Gepadial",
-            "version": "V.2.0.3",
-            "doc_type": [
-                "LDO", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-08",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "D.EVO",
-            "application_id": "DEVORIS",
-            "version": "1.0",
-            "doc_type": [
-                "LAB", "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-06",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "D-MEDICAL SRL",
-            "application_id": "MEDINET-LAB",
-            "version": "V.3.15.0.0",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-09-08",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Data Processing SPA",
-            "application_id": "Smart*Health",
-            "version": "4.5.048",
-            "doc_type": [
-                "LDO", "RSA", "VPS", "SING_VACC", "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DEDALUS SPA",
-            "application_id": "CONCERTO",
-            "version": "22.1.0",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-03-10",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DEDALUS SPA",
-            "application_id": "DNLAB_THEMIS",
-            "version": "3.0.0",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-03-14",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DEDALUS",
-            "application_id": "WHOSPITAL",
-            "version": "28.6",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-05",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Dedalus",
-            "application_id": "GALILEO",
-            "version": "1.5.7",
-            "equiv_releases": [
-                "1.5.4",
-                "1.5.5",
-                "1.5.6",
-                "1.5.8"
-            ],
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-06",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Dedalus",
-            "application_id": "ER4H",
-            "version": "2.7.1",
-            "equiv_releases": [
-                "2.7.2",
-                "3.1.0",
-                "3.1.1",
-                "3.1.2"
-            ],
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-13",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "dedalus",
-            "application_id": "caleido_fse20_connector",
-            "version": "2023",
-            "doc_type": [
-                "LAB", "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-20",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DEDALUS SPA",
-            "application_id": "APEIRON",
-            "version": "3.0.0",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-02",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DEDALUS",
-            "application_id": "TCWA",
-            "version": "10.6",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-08",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Dedalus",
-            "application_id": "Tabula",
-            "version": "1.0.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-15",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DEDALUS SPA",
-            "application_id": "HERO",
-            "version": "5.2",
-            "equiv_releases": [
-                "5.3",
-                "5.4"
-            ],
-            "doc_type": [
-                "VPS", "LDO", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-16",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DEDALUS SPA",
-            "application_id": "DSHOP-CCE",
-            "version": "3.0.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-16",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DEDALUS SPA",
-            "application_id": "D4CLIS",
-            "version": "1.3",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-17",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DEDALUS",
-            "application_id": "ARIANNAVACCINAZIONI",
-            "version": "2303.05.01.00",
-            "equiv_releases": [
-                "2308.06.00.00"
-            ],
-            "doc_type": [
-                "SING_VACC", "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DEDALUS",
-            "application_id": "P4PVACCINAZIONI",
-            "version": "1.0.0",
-            "doc_type": [
-                "SING_VACC", "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-29",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DEDALUS SPA",
-            "application_id": "INFOCLIN",
-            "version": "2205.02.07.00",
-            "doc_type": [
-                "LDO", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-29",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DEDALUS SPA",
-            "application_id": "LDOTO5",
-            "version": "2.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Dedalus",
-            "application_id": "4C Suite",
-            "version": "5.5.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-07",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DEDALUS SPA",
-            "application_id": "CONCERTO",
-            "version": "22.1.1",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-19",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Dedalus",
-            "application_id": "ELEKTRA",
-            "version": "4.2",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-08-03",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DHARMA",
-            "application_id": "HEALTHNET",
-            "version": "0.1",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-09-05",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "DTS CONSULTING SRL",
-            "application_id": "DTSHIS",
-            "version": "1.0",
-            "doc_type": [
-                "LAB", "LDO", "RAD", "VPS", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-11",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "dxc",
-            "application_id": "sinfonia-vaccini",
-            "version": "2.0",
-            "doc_type": [
-                "SING_VACC", "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-08",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "e-Shark S.r.l.",
-            "application_id": "Faith",
-            "version": "2.8.4",
-            "doc_type": [
-                "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-30",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "EBITSRL",
-            "application_id": "SUITESTENSA",
-            "version": "2.1b34.x",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-15",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "EDINEXT SRL",
-            "application_id": "AVR",
-            "version": "2.0",
-            "doc_type": [
-                "SING_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-16",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "EDINEXT_SRL",
-            "application_id": "AVR",
-            "version": "v3.0.0",
-            "doc_type": [
-                "SING_VACC", "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-09-06",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "El.Co.",
-            "application_id": "Fenix",
-            "version": "3.19.05",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-03-13",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "El.Co.",
-            "application_id": "Fenix-xis",
-            "version": "3.19.05",
-            "doc_type": [
-                "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-05",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "eliossuite",
-            "application_id": "0012023",
-            "version": "3",
-            "doc_type": [
-                "RAD", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Engineering Ingegneria Informatica S.p.A.",
-            "application_id": "OpenLisWeb",
-            "version": "21.01.00",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-02-17",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Engineering Ingegneria Informatica S.p.A.",
-            "application_id": "OpenLisCS",
-            "version": "21.01.00",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-02-17",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Engineering Ingegneria Informatica S.p.A.",
-            "application_id": "AREAS ADTWEB",
-            "version": "20.15.00",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-03-13",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Engineering Ingegneria Informatica S.p.A.",
-            "application_id": "AREAS PSWEB",
-            "version": "20.15.00",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-03-15",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Engineering Ingegneria Informatica S.p.A.",
-            "application_id": "Ellipse ADT",
-            "version": "3.4.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-03-31",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Engineering Ingegneria Informatica S.p.A.",
-            "application_id": "Ellipse PS",
-            "version": "2.7.0",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-19",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Engineering Ingegneria Informatica SpA",
-            "application_id": "Eliot 3.0",
-            "version": "20.15.04",
-            "doc_type": [
-                "LAB_TRASF"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-28",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Engineering Ingegneria Informatica SpA",
-            "application_id": "Eliot CS",
-            "version": "20.16.00",
-            "doc_type": [
-                "LAB_TRASF"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-28",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "E-SC SRL",
-            "application_id": "RADX",
-            "version": "V.9",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "E-SC SRL",
-            "application_id": "RADX",
-            "version": "V.9",
-            "doc_type": [
-                "RAD", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-08-03",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "ESTAR",
-            "application_id": "PLEIADE",
-            "version": "3",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-17",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "EUROMEDICAL",
-            "application_id": "MEDIWEB",
-            "version": "1.0",
-            "doc_type": [
-                "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-30",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "EXPLORA CONSULTING SRL",
-            "application_id": "VLFSE",
-            "version": "1.40",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-28",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "EXPRIVIA",
-            "application_id": "EDOTTO",
-            "version": "29722",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-23",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "exprivia",
-            "application_id": "eris",
-            "version": "5",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-23",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "exprivia",
-            "application_id": "aurora",
-            "version": "2",
-            "doc_type": [
-                "LDO", "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-08",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "exprivia",
-            "application_id": "eEmergency",
-            "version": "1",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-27",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "EXPRIVIA",
-            "application_id": "CCE_COSENZA",
-            "version": "1",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-28",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Exprivia",
-            "application_id": "ClinicalCare",
-            "version": "7",
-            "doc_type": [
-                "LDO", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-08-30",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "exprivia",
-            "application_id": "evisit",
-            "version": "5",
-            "doc_type": [
-                "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-09-01",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Fondazione Toscana Gabriele Monasterio",
-            "application_id": "C7",
-            "version": "8.11.1",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-23",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Fondazione Toscana Gabriele Monasterio",
-            "application_id": "ISA",
-            "version": "1.15.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-23",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Fondazione Toscana Gabriele Monasterio",
-            "application_id": "C6",
-            "version": "6.1.3",
-            "doc_type": [
-                "RAD", "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-29",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Fujifilm Italia S.p.A.",
-            "application_id": "Synapse Value",
-            "version": "1.6",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-19",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Fujifilm Italia S.p.A.",
-            "application_id": "Synapse Workflow",
-            "version": "4.33",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-19",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GEMSI",
-            "application_id": "CENTRICITYRIS",
-            "version": "7",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-08-30",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GESAN SRL",
-            "application_id": "WLEXT-LIS",
-            "version": "V.2.0",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-02",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GESAN SRL",
-            "application_id": "WLEXT-VPS",
-            "version": "V.2.0",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-15",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GESAN SRL",
-            "application_id": "WLEXT-LDO",
-            "version": "V.2.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-15",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GESAN SRL",
-            "application_id": "WLEXT-RIS",
-            "version": "V.2.0",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-15",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GESAN SRL",
-            "application_id": "WLEXT-AMB",
-            "version": "V.2.0",
-            "doc_type": [
-                "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-29",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Gmed S.r.l.",
-            "application_id": "VIRTUHIS",
-            "version": "22.0.3",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-18",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI_SPA",
-            "application_id": "CCE_Cartella_Clinica_Elettronica",
-            "version": "14",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-19",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI_SPA",
-            "application_id": "NGH PS",
-            "version": "4.0",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-19",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI_SPA",
-            "application_id": "NGH ADT",
-            "version": "8.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-21",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI_SPA",
-            "application_id": "PSNET",
-            "version": "PSW04.00.05.11",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-05",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI_SPA",
-            "application_id": "IM-LISA",
-            "version": "3.21_b5",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-05",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI_SPA",
-            "application_id": "G2CLINICO",
-            "version": "G2.0.01.011",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-05",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI_SPA",
-            "application_id": "HCSUITE",
-            "version": "3.19.23",
-            "doc_type": [
-                "LDO", "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-08",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI_SPA",
-            "application_id": "IE-DEA",
-            "version": "8.112_b13",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-15",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI_SPA",
-            "application_id": "PIESSE",
-            "version": "8832_b1",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-15",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI_SPA",
-            "application_id": "AMICO",
-            "version": "2.21.2",
-            "equiv_releases": [
-                "2.22.0"
-            ],
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-15",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI_SPA",
-            "application_id": "NEOCARE",
-            "version": "2.42",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-17",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI SPA",
-            "application_id": "IE-OPERA",
-            "version": "5.0",
-            "equiv_releases": [
-                "5.10", 
-                "5.11", 
-                "5.13", 
-                "5.13.3", 
-                "5.14", 
-                "5.22"
-            ],
-            "doc_type": [
-                "LDO", "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI SPA",
-            "application_id": "IE-DEGENTI",
-            "version": "9.98_b25",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI SPA",
-            "application_id": "PHI",
-            "version": "1.67",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI SPA",
-            "application_id": "IM-PATIDOK",
-            "version": "IT_10.0.1",
-            "doc_type": [
-                "LDO", "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-29",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI SPA",
-            "application_id": "NGH CCA",
-            "version": "8.0",
-            "doc_type": [
-                "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-05",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI SPA",
-            "application_id": "DEGENZA",
-            "version": "20.86",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-06",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI SPA",
-            "application_id": "AIRO",
-            "version": "2.7.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-16",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "GPI SPA",
-            "application_id": "SSI",
-            "version": "2.0",
-            "doc_type": [
-                "LDO", "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-28",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "IASI S.r.l",
-            "application_id": "SISWeb",
-            "version": "2.4.8",
-            "doc_type": [
-                "LDO", "VPS", "RAD", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-19",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Infonext S.r.l.",
-            "application_id": "eVac",
-            "version": "3.0.0",
-            "doc_type": [
-                "SING_VACC", "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-19",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Infordata Digital Health Solutions",
-            "application_id": "AstroL@bI/O",
-            "version": "11.231.650",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-08-30",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "INFOSYS SRL",
-            "application_id": "SIOWEB",
-            "version": "1.1.2",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-20",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "INFOSYS SRL",
-            "application_id": "SIOWEB-PAINT",
-            "version": "1.1.2",
-            "doc_type": [
-                "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-09-01",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Innogea srl",
-            "application_id": "CareMed",
-            "version": "1.0",
-            "doc_type": [
-                "LAB", "LDO", "RAD", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "INNOVATION GROUP",
-            "application_id": "NOVAMED",
-            "version": "8.4",
-            "doc_type": [
-                "LDO", "RAD", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "INSIEL",
-            "application_id": "CLINICO",
-            "version": "G4.3.0",
-            "doc_type": [
-                "LDO", "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-19",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "INSIEL",
-            "application_id": "SEI",
-            "version": "SEI 03.00.02.01",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-19",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "INSIEL",
-            "application_id": "CLINICO",
-            "version": "G4.3.10",
-            "doc_type": [
-                "LDO", "RAD", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-08-30",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "InterSystems Italia S.r.l.",
-            "application_id": "TrakCare",
-            "version": "ITXX",
-            "doc_type": [
-                "VPS", "RAD", "LDO", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-23",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "KIRANET",
-            "application_id": "FIDCARE",
-            "version": "5.4.0",
-            "doc_type": [
-                "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Log 80 s.r.l.",
-            "application_id": "SUITE LOG80",
-            "version": "2.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-20",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Log 80 s.r.l.",
-            "application_id": "SUITE LOG80",
-            "version": "1.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-02",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "MEDIACLINICS ITALIA",
-            "application_id": "MargheritaTre",
-            "version": "V.3.3.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-03-23",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "MEDARCHIVER",
-            "application_id": "MEDARCHIVER_FSE2.0",
-            "version": "1.0.0.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-15",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Medusa Software",
-            "application_id": "Urania FSE",
-            "version": "v.1.0.0",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-17",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "METEDA S.r.l.",
-            "application_id": "MetaClinic",
-            "version": "10",
-            "doc_type": [
-                "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "mimedical",
-            "application_id": "webrap3",
-            "version": "webrap3",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-03-29",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "NBS",
-            "application_id": "networksanitario",
-            "version": "v.4.10.106",
-            "doc_type": [
-                "LDO", "RAD", "RSA", "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-12",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "NEXERA",
-            "application_id": "ASAP",
-            "version": "V.1.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "NEXERA",
-            "application_id": "RIS",
-            "version": "1.0",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Nolex",
-            "application_id": "NIGR",
-            "version": "2023.04.01.1200",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Nolex",
-            "application_id": "NIGS",
-            "version": "2023.05.01.1200",
-            "doc_type": [
-                "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Nolex",
-            "application_id": "NIGD",
-            "version": "2023.05.10.1200",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-05",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Nolex",
-            "application_id": "NIGL",
-            "version": "2023.05.12.1200",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-06",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "nuvyta",
-            "application_id": "nuplatform",
-            "version": "2.4",
-            "doc_type": [
-                "LDO", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-05",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Olomedia",
-            "application_id": "oloHealth",
-            "version": "V.3.0.0",
-            "doc_type": [
-                "RSA", "LDO", "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "OnitGroup",
-            "application_id": "OnVac",
-            "version": "V.4.43.0.0",
-            "doc_type": [
-                "SING_VACC", "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-03-29",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "OnitGroup",
-            "application_id": "SIRVa",
-            "version": "V.4.42.0.0",
-            "equiv_releases": [
-                "V.4",
-                "V.4.43",
-                "V.4.44"
-            ],
-            "doc_type": [
-                "SING_VACC", "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-03-29",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "OnitGroup",
-            "application_id": "SIAVr",
-            "version": "4",
-            "doc_type": [
-                "SING_VACC", "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-12",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "OnitGroup",
-            "application_id": "AVacS",
-            "version": "4",
-            "doc_type": [
-                "SING_VACC", "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-12",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "OnitGroup",
-            "application_id": "SIAMA",
-            "version": "4",
-            "doc_type": [
-                "SING_VACC", "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Penta Sistemi srl",
-            "application_id": "GSD.System",
-            "version": "4.4",
-            "doc_type": [
-                "LAB", "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Philips",
-            "application_id": "VuePACS-SignPlugin",
-            "version": "1.0",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-16",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Philips",
-            "application_id": "VueRIS-SignPlugin",
-            "version": "1.0",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-09-05",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "POLIS-NET SRL",
-            "application_id": "SIS4CARE",
-            "version": "v.1.1.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-21",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "PRAEZISION",
-            "application_id": "ISOLABELLA",
-            "version": "3.29.0.X",
-            "doc_type": [
-                "VPS", "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-08",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "PrismaNet",
-            "application_id": "MeFiSto",
-            "version": "V.1.3",
-            "doc_type": [
-                "LDO", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-11",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Regione Puglia",
-            "application_id": "CCE",
-            "version": "1",
-            "doc_type": [
-                "RSA", "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "xenia-reply",
-            "application_id": "appheal-ldo",
-            "version": "1.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-06",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "S3K SPA",
-            "application_id": "JHIS",
-            "version": "23.01.01",
-            "doc_type": [
-                "VPS", "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-05",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "SCS SRL",
-            "application_id": "ALCHYMIA",
-            "version": "1.0.8",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-02-17",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "SID SRL",
-            "application_id": "SICO",
-            "version": "V2023",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-15",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "SIEMENS",
-            "application_id": "RA2000",
-            "version": "1.9.2",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-03-31",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "SIEMENS HEALTHCARE",
-            "application_id": "TDSYNERGY_SIEMENS",
-            "version": "V.0.0.1",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-05",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Siemens",
-            "application_id": "BeSimple",
-            "version": "2.0",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-16",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "sinapsys",
-            "application_id": "1.0.1",
-            "version": "1",
-            "doc_type": [
-                "VPS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-26",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "SINCON S.R.L",
-            "application_id": "GIAVA",
-            "version": "6",
-            "doc_type": [
-                "SING_VACC", "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-19",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Synlab SDN",
-            "application_id": "Sdn.Net",
-            "version": "1.1.0.0",
-            "doc_type": [
-                "RAD", "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-06",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "TES",
-            "application_id": "WSP-R",
-            "version": "V10",
-            "doc_type": [
-                "RAD"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-05-03",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "TES",
-            "application_id": "WSP-S",
-            "version": "V10",
-            "doc_type": [
-                "RSA"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-07-07",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "TESI SPA",
-            "application_id": "WINLAB",
-            "version": "5.0",
-            "equiv_releases": [
-                "5.2"
-            ],
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-27",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "TESI SPA",
-            "application_id": "WEBLAB",
-            "version": "2.0",
-            "equiv_releases": [
-                "2.11",
-                "3.0"
-            ],
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-27",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "THEMIX ITALIA SRL",
-            "application_id": "WLAB",
-            "version": "126.2.c.a2",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-06",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "topgate",
-            "application_id": "letteradimissione",
-            "version": "1.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-30",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "topgate",
-            "application_id": "skipper",
-            "version": "1.0",
-            "doc_type": [
-                "CERT_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-30",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "topgate",
-            "application_id": "skipper",
-            "version": "1.0",
-            "doc_type": [
-                "CERT_VACC", "SING_VACC"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-08-03",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Werfen S.p.A",
-            "application_id": "Modulab",
-            "version": "4.5.0",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-04-13",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Zucchetti Centro Sistema s.p.a",
-            "application_id": "JLAB",
-            "version": "v.9.0",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-06-08",
-            "gtw_version": "1.0"
-        }
-    ]
+"results": [
+{
+"vendor": "ACSINFORMATICA",
+"application_id": "WINGLA",
+"version": "1",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-16",
+"gtw_version": "1.0"
+},
+{
+"vendor": "ACTA Service srl",
+"application_id": "ACTALAB",
+"version": "5.48.1660",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-09-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "AGFA GEVAERT SPA",
+"application_id": "ELEFANTE.NET",
+"version": "2",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-03-21",
+"gtw_version": "1.0"
+},
+{
+"vendor": "agilesrl",
+"application_id": "cliniclick",
+"version": "1.15.9",
+"doc_type": [
+"LDO", "VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "agilesrl",
+"application_id": "cliniclick",
+"version": "1.15.9",
+"doc_type": [
+"LDO", "VPS", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-08-30",
+"gtw_version": "1.0"
+},
+{
+"vendor": "AO Ordine Mauriziano",
+"application_id": "BABELE_WPF",
+"version": "1.0",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-23",
+"gtw_version": "1.0"
+},
+{
+"vendor": "AO Ordine Mauriziano",
+"application_id": "BABELE_WPF",
+"version": "1.0",
+"doc_type": [
+"RAD", "LDO", "VPS", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "AOUCAREGGI",
+"application_id": "ARCHIMED",
+"version": "8.48",
+"doc_type": [
+"LDO", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-21",
+"gtw_version": "1.0"
+},
+{
+"vendor": "APSS",
+"application_id": "SIO",
+"version": "2.12.0",
+"doc_type": [
+"LDO", "VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-30",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Arbitek",
+"application_id": "XM-Lab",
+"version": "2.0",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-21",
+"gtw_version": "1.0"
+},
+{
+"vendor": "ARIA SPA",
+"application_id": "CDA2VACC",
+"version": "1.0",
+"doc_type": [
+"CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-19",
+"gtw_version": "1.0"
+},
+{
+"vendor": "ASCOM UMS",
+"application_id": "DIGISTAT",
+"version": "8",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "asl2savonese",
+"application_id": "onesys",
+"version": "2.6.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-06",
+"gtw_version": "1.0"
+},
+{
+"vendor": "asl2savonese",
+"application_id": "onesys-ps",
+"version": "2.6.0",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-13",
+"gtw_version": "1.0"
+},
+{
+"vendor": "ASL3 Genovese",
+"application_id": "SIVIS",
+"version": "v.1.0.0",
+"doc_type": [
+"LDO", "VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-19",
+"gtw_version": "1.0"
+},
+{
+"vendor": "ASL4",
+"application_id": "OASIS4",
+"version": "V.9.9.0",
+"doc_type": [
+"LDO", "VPS", "SING_VACC" , "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-05",
+"gtw_version": "1.0"
+},
+{
+"vendor": "ASL5",
+"application_id": "GestioneVaccinazioni",
+"version": "1.0",
+"doc_type": [
+"SING_VACC" , "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-30",
+"gtw_version": "1.0"
+},
+{
+"vendor": "ASL5",
+"application_id": "PHTRACK",
+"version": "1.0",
+"doc_type": [
+"SING_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-30",
+"gtw_version": "1.0"
+},
+{
+"vendor": "ASL Caserta",
+"application_id": "ASLCE_ADTPS",
+"version": "1.0",
+"doc_type": [
+"LDO", "VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-08",
+"gtw_version": "1.0"
+},
+{
+"vendor": "BCS",
+"application_id": "WINDEG",
+"version": "7.11.0.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-06",
+"gtw_version": "1.0"
+},
+{
+"vendor": "BCS",
+"application_id": "WINLAB",
+"version": "6.0.41.1",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-13",
+"gtw_version": "1.0"
+},
+{
+"vendor": "BCS",
+"application_id": "PriamoRIS",
+"version": "4.14.0.0",
+"equiv_releases": [
+"4.15.0.0"
+],
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-16",
+"gtw_version": "1.0"
+},
+{
+"vendor": "BCS",
+"application_id": "WINPS",
+"version": "8.0.49.5",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "BCS",
+"application_id": "PriamoAMB",
+"version": "4.16.0.0",
+"doc_type": [
+"RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-08-30",
+"gtw_version": "1.0"
+},
+{
+"vendor": "BiMind",
+"application_id": "Human",
+"version": "10.6",
+"doc_type": [
+"LDO", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "BOLLINOITSPA",
+"application_id": "BOLLINOFSE",
+"version": "1.0",
+"doc_type": [
+"LAB", "RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-03",
+"gtw_version": "1.0"
+},
+{
+"vendor": "BOLLINOITSPA",
+"application_id": "BOLLINOFSE",
+"version": "1.0",
+"doc_type": [
+"LAB", "RAD", "LDO", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-08-30",
+"gtw_version": "1.0"
+},
+{
+"vendor": "CB Sistemi",
+"application_id": "StudioLAB",
+"version": "3.3.0.0",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-17",
+"gtw_version": "1.0"
+},
+{
+"vendor": "CiD Software SpA",
+"application_id": "ADT",
+"version": "3.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-02",
+"gtw_version": "1.0"
+},
+{
+"vendor": "CiD Software SpA",
+"application_id": "PS",
+"version": "3.0",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-02",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Connect Informatics SRL",
+"application_id": "Equipe FSE Gateway",
+"version": "V1.0",
+"doc_type": [
+"LDO", "RAD", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-09-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "CONSORZIO METIS",
+"application_id": "SISPC",
+"version": "V.23",
+"doc_type": [
+"SING_VACC", "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-05",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Cooperativa EDP La Traccia",
+"application_id": "Gepadial",
+"version": "V.2.0.3",
+"doc_type": [
+"LDO", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-08",
+"gtw_version": "1.0"
+},
+{
+"vendor": "D.EVO",
+"application_id": "DEVORIS",
+"version": "1.0",
+"doc_type": [
+"LAB", "RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-06",
+"gtw_version": "1.0"
+},
+{
+"vendor": "D-MEDICAL SRL",
+"application_id": "MEDINET-LAB",
+"version": "V.3.15.0.0",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-09-08",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Data Processing SPA",
+"application_id": "Smart*Health",
+"version": "4.5.048",
+"doc_type": [
+"LDO", "RSA", "VPS", "SING_VACC", "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DEDALUS SPA",
+"application_id": "CONCERTO",
+"version": "22.1.0",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-03-10",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DEDALUS SPA",
+"application_id": "DNLAB_THEMIS",
+"version": "3.0.0",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-03-14",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DEDALUS",
+"application_id": "WHOSPITAL",
+"version": "28.6",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-05",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Dedalus",
+"application_id": "GALILEO",
+"version": "1.5.7",
+"equiv_releases": [
+"1.5.4",
+"1.5.5",
+"1.5.6",
+"1.5.8"
+],
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-06",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Dedalus",
+"application_id": "ER4H",
+"version": "2.7.1",
+"equiv_releases": [
+"2.7.2",
+"3.1.0",
+"3.1.1",
+"3.1.2"
+],
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-13",
+"gtw_version": "1.0"
+},
+{
+"vendor": "dedalus",
+"application_id": "caleido_fse20_connector",
+"version": "2023",
+"doc_type": [
+"LAB", "RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-20",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DEDALUS SPA",
+"application_id": "APEIRON",
+"version": "3.0.0",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-02",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DEDALUS",
+"application_id": "TCWA",
+"version": "10.6",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-08",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Dedalus",
+"application_id": "Tabula",
+"version": "1.0.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DEDALUS SPA",
+"application_id": "HERO",
+"version": "5.2",
+"equiv_releases": [
+"5.3",
+"5.4"
+],
+"doc_type": [
+"VPS", "LDO", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-16",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DEDALUS SPA",
+"application_id": "DSHOP-CCE",
+"version": "3.0.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-16",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DEDALUS SPA",
+"application_id": "D4CLIS",
+"version": "1.3",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-17",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DEDALUS",
+"application_id": "ARIANNAVACCINAZIONI",
+"version": "2303.05.01.00",
+"equiv_releases": [
+"2308.06.00.00"
+],
+"doc_type": [
+"SING_VACC", "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DEDALUS",
+"application_id": "P4PVACCINAZIONI",
+"version": "1.0.0",
+"doc_type": [
+"SING_VACC", "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-29",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DEDALUS SPA",
+"application_id": "INFOCLIN",
+"version": "2205.02.07.00",
+"doc_type": [
+"LDO", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-29",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DEDALUS SPA",
+"application_id": "LDOTO5",
+"version": "2.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Dedalus",
+"application_id": "4C Suite",
+"version": "5.5.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-07",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DEDALUS SPA",
+"application_id": "CONCERTO",
+"version": "22.1.1",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-19",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Dedalus",
+"application_id": "ELEKTRA",
+"version": "4.2",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-08-03",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DHARMA",
+"application_id": "HEALTHNET",
+"version": "0.1",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-09-05",
+"gtw_version": "1.0"
+},
+{
+"vendor": "DTS CONSULTING SRL",
+"application_id": "DTSHIS",
+"version": "1.0",
+"doc_type": [
+"LAB", "LDO", "RAD", "VPS", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-11",
+"gtw_version": "1.0"
+},
+{
+"vendor": "dxc",
+"application_id": "sinfonia-vaccini",
+"version": "2.0",
+"doc_type": [
+"SING_VACC", "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-08",
+"gtw_version": "1.0"
+},
+{
+"vendor": "e-Shark S.r.l.",
+"application_id": "Faith",
+"version": "2.8.4",
+"doc_type": [
+"RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-30",
+"gtw_version": "1.0"
+},
+{
+"vendor": "EBITSRL",
+"application_id": "SUITESTENSA",
+"version": "2.1b34.x",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "EDINEXT SRL",
+"application_id": "AVR",
+"version": "2.0",
+"doc_type": [
+"SING_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-16",
+"gtw_version": "1.0"
+},
+{
+"vendor": "EDINEXT_SRL",
+"application_id": "AVR",
+"version": "v3.0.0",
+"doc_type": [
+"SING_VACC", "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-09-06",
+"gtw_version": "1.0"
+},
+{
+"vendor": "El.Co.",
+"application_id": "Fenix",
+"version": "3.19.05",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-03-13",
+"gtw_version": "1.0"
+},
+{
+"vendor": "El.Co.",
+"application_id": "Fenix-xis",
+"version": "3.19.05",
+"doc_type": [
+"RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-05",
+"gtw_version": "1.0"
+},
+{
+"vendor": "eliossuite",
+"application_id": "0012023",
+"version": "3",
+"doc_type": [
+"RAD", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Engineering Ingegneria Informatica S.p.A.",
+"application_id": "OpenLisWeb",
+"version": "21.01.00",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-02-17",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Engineering Ingegneria Informatica S.p.A.",
+"application_id": "OpenLisCS",
+"version": "21.01.00",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-02-17",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Engineering Ingegneria Informatica S.p.A.",
+"application_id": "AREAS ADTWEB",
+"version": "20.15.00",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-03-13",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Engineering Ingegneria Informatica S.p.A.",
+"application_id": "AREAS PSWEB",
+"version": "20.15.00",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-03-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Engineering Ingegneria Informatica S.p.A.",
+"application_id": "Ellipse ADT",
+"version": "3.4.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-03-31",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Engineering Ingegneria Informatica S.p.A.",
+"application_id": "Ellipse PS",
+"version": "2.7.0",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-19",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Engineering Ingegneria Informatica SpA",
+"application_id": "Eliot 3.0",
+"version": "20.15.04",
+"doc_type": [
+"LAB_TRASF"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-28",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Engineering Ingegneria Informatica SpA",
+"application_id": "Eliot CS",
+"version": "20.16.00",
+"doc_type": [
+"LAB_TRASF"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-28",
+"gtw_version": "1.0"
+},
+{
+"vendor": "E-SC SRL",
+"application_id": "RADX",
+"version": "V.9",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "E-SC SRL",
+"application_id": "RADX",
+"version": "V.9",
+"doc_type": [
+"RAD", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-08-03",
+"gtw_version": "1.0"
+},
+{
+"vendor": "ESTAR",
+"application_id": "PLEIADE",
+"version": "3",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-17",
+"gtw_version": "1.0"
+},
+{
+"vendor": "EUROMEDICAL",
+"application_id": "MEDIWEB",
+"version": "1.0",
+"doc_type": [
+"RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-30",
+"gtw_version": "1.0"
+},
+{
+"vendor": "EXPLORA CONSULTING SRL",
+"application_id": "VLFSE",
+"version": "1.40",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-28",
+"gtw_version": "1.0"
+},
+{
+"vendor": "EXPRIVIA",
+"application_id": "EDOTTO",
+"version": "29722",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-23",
+"gtw_version": "1.0"
+},
+{
+"vendor": "exprivia",
+"application_id": "eris",
+"version": "5",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-23",
+"gtw_version": "1.0"
+},
+{
+"vendor": "exprivia",
+"application_id": "aurora",
+"version": "2",
+"doc_type": [
+"LDO", "VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-08",
+"gtw_version": "1.0"
+},
+{
+"vendor": "exprivia",
+"application_id": "eEmergency",
+"version": "1",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-27",
+"gtw_version": "1.0"
+},
+{
+"vendor": "EXPRIVIA",
+"application_id": "CCE_COSENZA",
+"version": "1",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-28",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Exprivia",
+"application_id": "ClinicalCare",
+"version": "7",
+"doc_type": [
+"LDO", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-08-30",
+"gtw_version": "1.0"
+},
+{
+"vendor": "exprivia",
+"application_id": "evisit",
+"version": "5",
+"doc_type": [
+"RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-09-01",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Fondazione Toscana Gabriele Monasterio",
+"application_id": "C7",
+"version": "8.11.1",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-23",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Fondazione Toscana Gabriele Monasterio",
+"application_id": "ISA",
+"version": "1.15.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-23",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Fondazione Toscana Gabriele Monasterio",
+"application_id": "C6",
+"version": "6.1.3",
+"doc_type": [
+"RAD", "LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-29",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Fujifilm Italia S.p.A.",
+"application_id": "Synapse Value",
+"version": "1.6",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-19",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Fujifilm Italia S.p.A.",
+"application_id": "Synapse Workflow",
+"version": "4.33",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-19",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GEMSI",
+"application_id": "CENTRICITYRIS",
+"version": "7",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-08-30",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GESAN SRL",
+"application_id": "WLEXT-LIS",
+"version": "V.2.0",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-02",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GESAN SRL",
+"application_id": "WLEXT-VPS",
+"version": "V.2.0",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GESAN SRL",
+"application_id": "WLEXT-LDO",
+"version": "V.2.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GESAN SRL",
+"application_id": "WLEXT-RIS",
+"version": "V.2.0",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GESAN SRL",
+"application_id": "WLEXT-AMB",
+"version": "V.2.0",
+"doc_type": [
+"RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-29",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Gmed S.r.l.",
+"application_id": "VIRTUHIS",
+"version": "22.0.3",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-18",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI_SPA",
+"application_id": "CCE_Cartella_Clinica_Elettronica",
+"version": "14",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-19",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI_SPA",
+"application_id": "NGH PS",
+"version": "4.0",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-19",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI_SPA",
+"application_id": "NGH ADT",
+"version": "8.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-21",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI_SPA",
+"application_id": "PSNET",
+"version": "PSW04.00.05.11",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-05",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI_SPA",
+"application_id": "IM-LISA",
+"version": "3.21_b5",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-05",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI_SPA",
+"application_id": "G2CLINICO",
+"version": "G2.0.01.011",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-05",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI_SPA",
+"application_id": "HCSUITE",
+"version": "3.19.23",
+"doc_type": [
+"LDO", "VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-08",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI_SPA",
+"application_id": "IE-DEA",
+"version": "8.112_b13",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI_SPA",
+"application_id": "PIESSE",
+"version": "8832_b1",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI_SPA",
+"application_id": "AMICO",
+"version": "2.21.2",
+"equiv_releases": [
+"2.22.0"
+],
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI_SPA",
+"application_id": "NEOCARE",
+"version": "2.42",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-17",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI SPA",
+"application_id": "IE-OPERA",
+"version": "5.0",
+"equiv_releases": [
+"5.10", 
+"5.11", 
+"5.13", 
+"5.13.3", 
+"5.14", 
+"5.22"
+],
+"doc_type": [
+"LDO", "VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI SPA",
+"application_id": "IE-DEGENTI",
+"version": "9.98_b25",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI SPA",
+"application_id": "PHI",
+"version": "1.67",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI SPA",
+"application_id": "IM-PATIDOK",
+"version": "IT_10.0.1",
+"doc_type": [
+"LDO", "VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-29",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI SPA",
+"application_id": "NGH CCA",
+"version": "8.0",
+"doc_type": [
+"RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-05",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI SPA",
+"application_id": "DEGENZA",
+"version": "20.86",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-06",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI SPA",
+"application_id": "AIRO",
+"version": "2.7.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-16",
+"gtw_version": "1.0"
+},
+{
+"vendor": "GPI SPA",
+"application_id": "SSI",
+"version": "2.0",
+"doc_type": [
+"LDO", "VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-28",
+"gtw_version": "1.0"
+},
+{
+"vendor": "IASI S.r.l",
+"application_id": "SISWeb",
+"version": "2.4.8",
+"doc_type": [
+"LDO", "VPS", "RAD", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-19",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Infonext S.r.l.",
+"application_id": "eVac",
+"version": "3.0.0",
+"doc_type": [
+"SING_VACC", "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-19",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Infordata Digital Health Solutions",
+"application_id": "AstroL@bI/O",
+"version": "11.231.650",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-08-30",
+"gtw_version": "1.0"
+},
+{
+"vendor": "INFOSYS SRL",
+"application_id": "SIOWEB",
+"version": "1.1.2",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-20",
+"gtw_version": "1.0"
+},
+{
+"vendor": "INFOSYS SRL",
+"application_id": "SIOWEB-PAINT",
+"version": "1.1.2",
+"doc_type": [
+"RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-09-01",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Innogea srl",
+"application_id": "CareMed",
+"version": "1.0",
+"doc_type": [
+"LAB", "LDO", "RAD", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "INNOVATION GROUP",
+"application_id": "NOVAMED",
+"version": "8.4",
+"doc_type": [
+"LDO", "RAD", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "INSIEL",
+"application_id": "CLINICO",
+"version": "G4.3.0",
+"doc_type": [
+"LDO", "RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-19",
+"gtw_version": "1.0"
+},
+{
+"vendor": "INSIEL",
+"application_id": "SEI",
+"version": "SEI 03.00.02.01",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-19",
+"gtw_version": "1.0"
+},
+{
+"vendor": "INSIEL",
+"application_id": "CLINICO",
+"version": "G4.3.10",
+"doc_type": [
+"LDO", "RAD", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-08-30",
+"gtw_version": "1.0"
+},
+{
+"vendor": "InterSystems Italia S.r.l.",
+"application_id": "TrakCare",
+"version": "ITXX",
+"doc_type": [
+"VPS", "RAD", "LDO", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-23",
+"gtw_version": "1.0"
+},
+{
+"vendor": "KIRANET",
+"application_id": "FIDCARE",
+"version": "5.4.0",
+"doc_type": [
+"RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Log 80 s.r.l.",
+"application_id": "SUITE LOG80",
+"version": "2.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-20",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Log 80 s.r.l.",
+"application_id": "SUITE LOG80",
+"version": "1.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-02",
+"gtw_version": "1.0"
+},
+{
+"vendor": "MEDIACLINICS ITALIA",
+"application_id": "MargheritaTre",
+"version": "V.3.3.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-03-23",
+"gtw_version": "1.0"
+},
+{
+"vendor": "MEDARCHIVER",
+"application_id": "MEDARCHIVER_FSE2.0",
+"version": "1.0.0.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Medusa Software",
+"application_id": "Urania FSE",
+"version": "v.1.0.0",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-17",
+"gtw_version": "1.0"
+},
+{
+"vendor": "METEDA S.r.l.",
+"application_id": "MetaClinic",
+"version": "10",
+"doc_type": [
+"RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "mimedical",
+"application_id": "webrap3",
+"version": "webrap3",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-03-29",
+"gtw_version": "1.0"
+},
+{
+"vendor": "NBS",
+"application_id": "networksanitario",
+"version": "v.4.10.106",
+"doc_type": [
+"LDO", "RAD", "RSA", "VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-12",
+"gtw_version": "1.0"
+},
+{
+"vendor": "NEXERA",
+"application_id": "ASAP",
+"version": "V.1.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "NEXERA",
+"application_id": "RIS",
+"version": "1.0",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Nolex",
+"application_id": "NIGR",
+"version": "2023.04.01.1200",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Nolex",
+"application_id": "NIGS",
+"version": "2023.05.01.1200",
+"doc_type": [
+"RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Nolex",
+"application_id": "NIGD",
+"version": "2023.05.10.1200",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-05",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Nolex",
+"application_id": "NIGL",
+"version": "2023.05.12.1200",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-06",
+"gtw_version": "1.0"
+},
+{
+"vendor": "nuvyta",
+"application_id": "nuplatform",
+"version": "2.4",
+"doc_type": [
+"LDO", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-05",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Olomedia",
+"application_id": "oloHealth",
+"version": "V.3.0.0",
+"doc_type": [
+"RSA", "LDO", "VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "OnitGroup",
+"application_id": "OnVac",
+"version": "V.4.43.0.0",
+"doc_type": [
+"SING_VACC", "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-03-29",
+"gtw_version": "1.0"
+},
+{
+"vendor": "OnitGroup",
+"application_id": "SIRVa",
+"version": "V.4.42.0.0",
+"equiv_releases": [
+"V.4",
+"V.4.43",
+"V.4.44"
+],
+"doc_type": [
+"SING_VACC", "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-03-29",
+"gtw_version": "1.0"
+},
+{
+"vendor": "OnitGroup",
+"application_id": "SIAVr",
+"version": "4",
+"doc_type": [
+"SING_VACC", "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-12",
+"gtw_version": "1.0"
+},
+{
+"vendor": "OnitGroup",
+"application_id": "AVacS",
+"version": "4",
+"doc_type": [
+"SING_VACC", "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-12",
+"gtw_version": "1.0"
+},
+{
+"vendor": "OnitGroup",
+"application_id": "SIAMA",
+"version": "4",
+"doc_type": [
+"SING_VACC", "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Penta Sistemi srl",
+"application_id": "GSD.System",
+"version": "4.4",
+"doc_type": [
+"LAB", "RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Philips",
+"application_id": "VuePACS-SignPlugin",
+"version": "1.0",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-16",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Philips",
+"application_id": "VueRIS-SignPlugin",
+"version": "1.0",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-09-05",
+"gtw_version": "1.0"
+},
+{
+"vendor": "POLIS-NET SRL",
+"application_id": "SIS4CARE",
+"version": "v.1.1.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-21",
+"gtw_version": "1.0"
+},
+{
+"vendor": "PRAEZISION",
+"application_id": "ISOLABELLA",
+"version": "3.29.0.X",
+"doc_type": [
+"VPS", "LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-08",
+"gtw_version": "1.0"
+},
+{
+"vendor": "PrismaNet",
+"application_id": "MeFiSto",
+"version": "V.1.3",
+"doc_type": [
+"LDO", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-11",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Regione Puglia",
+"application_id": "CCE",
+"version": "1",
+"doc_type": [
+"RSA", "LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "xenia-reply",
+"application_id": "appheal-ldo",
+"version": "1.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-06",
+"gtw_version": "1.0"
+},
+{
+"vendor": "S3K SPA",
+"application_id": "JHIS",
+"version": "23.01.01",
+"doc_type": [
+"VPS", "LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-05",
+"gtw_version": "1.0"
+},
+{
+"vendor": "SCS SRL",
+"application_id": "ALCHYMIA",
+"version": "1.0.8",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-02-17",
+"gtw_version": "1.0"
+},
+{
+"vendor": "SID SRL",
+"application_id": "SICO",
+"version": "V2023",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "SIEMENS",
+"application_id": "RA2000",
+"version": "1.9.2",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-03-31",
+"gtw_version": "1.0"
+},
+{
+"vendor": "SIEMENS HEALTHCARE",
+"application_id": "TDSYNERGY_SIEMENS",
+"version": "V.0.0.1",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-05",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Siemens",
+"application_id": "BeSimple",
+"version": "2.0",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-16",
+"gtw_version": "1.0"
+},
+{
+"vendor": "sinapsys",
+"application_id": "1.0.1",
+"version": "1",
+"doc_type": [
+"VPS"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-26",
+"gtw_version": "1.0"
+},
+{
+"vendor": "SINCON S.R.L",
+"application_id": "GIAVA",
+"version": "6",
+"doc_type": [
+"SING_VACC", "CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-19",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Synlab SDN",
+"application_id": "Sdn.Net",
+"version": "1.1.0.0",
+"doc_type": [
+"RAD", "RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-06",
+"gtw_version": "1.0"
+},
+{
+"vendor": "TES",
+"application_id": "WSP-R",
+"version": "V10",
+"doc_type": [
+"RAD"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-05-03",
+"gtw_version": "1.0"
+},
+{
+"vendor": "TES",
+"application_id": "WSP-S",
+"version": "V10",
+"doc_type": [
+"RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-07-07",
+"gtw_version": "1.0"
+},
+{
+"vendor": "TESI SPA",
+"application_id": "WINLAB",
+"version": "5.0",
+"equiv_releases": [
+"5.2"
+],
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-27",
+"gtw_version": "1.0"
+},
+{
+"vendor": "TESI SPA",
+"application_id": "WEBLAB",
+"version": "2.0",
+"equiv_releases": [
+"2.11",
+"3.0"
+],
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-27",
+"gtw_version": "1.0"
+},
+{
+"vendor": "TESI SPA",
+"application_id": "ECOPLUS",
+"version": "4.0",
+"doc_type": [
+"RSA"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-09-15",
+"gtw_version": "1.0"
+},
+{
+"vendor": "THEMIX ITALIA SRL",
+"application_id": "WLAB",
+"version": "126.2.c.a2",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-06",
+"gtw_version": "1.0"
+},
+{
+"vendor": "topgate",
+"application_id": "letteradimissione",
+"version": "1.0",
+"doc_type": [
+"LDO"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-30",
+"gtw_version": "1.0"
+},
+{
+"vendor": "topgate",
+"application_id": "skipper",
+"version": "1.0",
+"doc_type": [
+"CERT_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-30",
+"gtw_version": "1.0"
+},
+{
+"vendor": "topgate",
+"application_id": "skipper",
+"version": "1.0",
+"doc_type": [
+"CERT_VACC", "SING_VACC"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-08-03",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Werfen S.p.A",
+"application_id": "Modulab",
+"version": "4.5.0",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-04-13",
+"gtw_version": "1.0"
+},
+{
+"vendor": "Zucchetti Centro Sistema s.p.a",
+"application_id": "JLAB",
+"version": "v.9.0",
+"doc_type": [
+"LAB"
+],
+"service": [
+"VALIDATION"
+],
+"date": "2023-06-08",
+"gtw_version": "1.0"
+}
+]
+
 }
 
